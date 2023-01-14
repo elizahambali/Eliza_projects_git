@@ -5,12 +5,13 @@ This project looks at the rainfall and tidal data to find recommendations for Na
 (NOAS). NOAS is an outdoor adventure provider that designs and conducts programme for Institure of Higher Learning (IHL)
 students in Singapore. One of the key programme is the 9-days, Singapore Youth Outdoor (SYO) programme that is held
 annually for all IHL students. The programme objectives is to build social cohesion and resilience amongst the IHL
-students.YO has been well-received and it is in its 5th year running. However, lately there were multiple feedback on
+students.SYO has been well-received and it is in its 5th year running. However, lately there were multiple feedback on
 one of the programme's activities i.e. Kayaking.
 
 ---
+
 ### Problem Statement
-YO students feedback that the kayaking expedition route is too short and easy. They are looking for a longer expedition
+SYO students feedback that the kayaking expedition route is too short and easy. They are looking for a longer expedition
 route that is challenging and stretches them physically, emotionally and mentally. 
 NOAS has been tasked to looked into extending the expedition route. However, before the new route can be implemented, a
 trial needs to conducted and assessed by NOAS Safety Committee Members (SCM). Hence NOAS is looking for the ideal month
@@ -36,6 +37,8 @@ rainy days|
 |sunshine_hours_by_month|float|sunshine-duration-monthly-mean|average sunshine hours for the month|
 |tide_table|float|2022_tidetable|tidal conditions for the month|
 
+---
+
 ### Brief Summary of Analysis
 From the analysis, Jan 2022 seem to be the ideal month to conduct the new expedition trial route due to the following
 reasons:
@@ -58,4 +61,4 @@ All of your projects will comprise of a written technical report and a presentat
 ### Conclusions and Recommendations
 In summary, NOAS recommends to SCM to conduct the kayaking expedition trial route from Pulau Ubin to East Coast campus
 at an estimated distance of 33km during Jan 2022. It is projected to be a success considering Jan has the lowest
-rainfall and the longest duration of sunshine hours including favorable tidal conditions
+rainfall and the longest duration of sunshine hours including favorable tidal conditions.
