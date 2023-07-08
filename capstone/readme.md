@@ -11,9 +11,9 @@ source: https://www.britannica.com/biography/William-Shakespeare
 
 ### Problem Statement
 - Mr Dorian Gray is teaching English literature to lower secondary school students who are born in the digital age and are tech-savvy. The school's direction to teachers is to incorporate technology in most of their lesson where possible. As such, Mr Dorain Gray who has a background in data science before his career switch as a teacher, deciced to create a Shakespeare machine learning model a.k.a Shakespeare Bot. The intent is to imbue some interest in his students in Shakespeare's literary works, while incorporating machine learning into it.
-- To kickstart, My Dorian Gray will develop a baseline Shakespeare Bot that is able to regenerate text from the machine learning model. Factoring that he has been out-of-touch with the data science commmunity, and with the time-constraint, he has scope his Shakespeare Bot to learn from the list of Shakespeare's plays and thereafter regenerate 1000 characters of Shakespeare's text, as a baseline.
+- To kickstart, Mr Dorian Gray will develop a baseline Shakespeare Bot that is able to regenerate text from the machine learning model. Factoring that he has been out-of-touch with the data science commmunity, and with the time-constraint, he has scope his Shakespeare Bot to learn from the list of Shakespeare's plays and thereafter regenerate 1000 characters of Shakespeare's text, as a baseline.
 - Assuming, his baseline Shakespeare Bot is successful, his larger goal is to feed modern literary works such as Avengers playscript into the Shakespeare Bot. 
-- In summary, My Dorian Gray will be creating a baseline Shakespeare Bot that learns from the list of Shakespeare's plays and regenerate 1000 characters of Shakespeare's text. 
+- In summary, Mr Dorian Gray will be creating a baseline Shakespeare Bot that learns from the list of Shakespeare's plays and regenerate 1000 characters of Shakespeare's text. 
 
 ---
 
